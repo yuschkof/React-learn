@@ -1,0 +1,11 @@
+.nav {
+  grid-area:  n;
+  background-color: #f03b9e;
+  text-align: left;
+  padding: 1em;
+  font-size: large; 
+}
+
+.item {
+  color: aliceblue;
+}
