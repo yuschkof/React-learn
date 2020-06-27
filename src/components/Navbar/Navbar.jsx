@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className={s.item}>
         <a>Messages</a>
       </div>
-      <div className={s.item}>
+      <div className={s.item} href='#s'>
         <a>News</a>
       </div>
       <div className={s.item}>
